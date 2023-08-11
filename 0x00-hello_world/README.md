@@ -4,3 +4,4 @@
 #3-name-Compiling a C file and creates an executable named cisfun.
 #4-puts.c-C program that prints exact statement.
 #5-printf.c-C program that prints exact statement.
+#6-size.c-C program that prints the size of various types on the computer it is compiled and run on.
