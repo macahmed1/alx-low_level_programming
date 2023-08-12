@@ -4,3 +4,4 @@
 #3-print-alphabets
 #4-print-alphabt
 #5-print-numbers
+#6-print-numberz
