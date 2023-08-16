@@ -1,20 +1,21 @@
-#include "main.h"
+#include <main.c>
+
 /**
- * main - Write a script that prints "_putchar".
- * Description: Standard libraries not allowed..
- * Return: Always 0
+ * main - main entry
+ * Return: 0
  */
-int main(void)
+
+int main (void)
 {
-	char _Putchar[] = "_putchar";
-	int i = 0;
-
-	while (_Putchar[i] != '\0')
-	{
-		_putchar(_Putchar[i]);
-		i++;
-	}
-	_putchar('\n');
-
-	return (0);
+	_putchar("_");
+	_putchar("p");
+	_putchar("u");
+	_putchar("t");
+	_putchar("c");
+	_putchar("h");
+	_putchar("a");
+	_putchar("r");
+	_putchar("\n");
+	
+	return 0;
 }
