@@ -2,7 +2,7 @@
 
 /**
  * print_most_numbers - Printing number from 0 through 9, the exception of 2 and 4.
- * Description: Use _putchar twice.
+ * Description: Use _putchar twice
  */
 void print_most_numbers(void)
 {
