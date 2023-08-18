@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_number - Function that prints an integer.
+ * print_number - Function that prints an integer value.
  * @n: int type number
  * Description: Can only use _putchar to print.
  */
