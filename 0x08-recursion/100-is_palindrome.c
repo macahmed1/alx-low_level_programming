@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * is_palindrome - Function that returns 1 if a string is a palindrome and 0 if not.
+ * is_palindrome - Returns 1 if a string is a palindrome and 0 if not.
  * @s: Array string value of a char.
  * Return: Returns 1 if a string is a  palindrome, 0 if not
  */
